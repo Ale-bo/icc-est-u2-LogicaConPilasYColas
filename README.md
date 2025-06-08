@@ -75,3 +75,17 @@ Output
 ```	
 
 ---
+
+## 📦 Versión 2.0.2 – Estructuras Lineales – Ejercicios
+
+Esta versión contiene la solución a dos ejercicios prácticos sobre el uso de pilas (`Stack`) en Java:
+
+- **Ejercicio 01 – Validación de signos:**  
+  Se implementa una clase `SingValidator` que evalúa si una cadena de signos (`()`, `{}`, `[]`) está correctamente balanceada usando una pila.
+
+- **Ejercicio 02 – Ordenamiento de un Stack:**  
+  Se implementa la clase `StackSorter` que ordena una pila de enteros sin estructuras externas, solo utilizando otra pila auxiliar.
+
+🔗 [Ir a la versión 2.0.2](http://github.com/Ale-bo/icc-est-u2-LogicaConPilasYColas/releases/tag/v2.0.2)
+
+---
