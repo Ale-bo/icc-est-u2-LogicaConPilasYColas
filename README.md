@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Descripción
+## 🛠️ Descripción 
 ### Ejercicio 01: Validación de signos
 Este ejercicio esta ubucado en el paquete `Ejercicio_01_sign`.
 
